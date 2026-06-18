@@ -1,6 +1,7 @@
 # Language Translation Tool
 
 A modern, production-ready multilingual translation application built with Python and Streamlit. Translate text between 50+ languages instantly with auto-detection, text-to-speech capabilities, and a beautiful glassmorphism UI.
+<img width="2070" height="1606" alt="image" src="https://github.com/user-attachments/assets/e6393865-0796-4b19-bfe5-e4925fa06e58" />
 
 ## Features
 
@@ -13,6 +14,7 @@ A modern, production-ready multilingual translation application built with Pytho
 - **Language Swap**: Quickly swap source and target languages with one click
 - **Modern UI**: Beautiful glassmorphism design with dark theme inspired by Gemini
 - **Responsive Design**: Optimized for various screen sizes
+<img width="808" height="1544" alt="image" src="https://github.com/user-attachments/assets/cc9fbdc6-b5fb-44af-89d1-3a356d72521a" />
 
 ## Technologies Used
 
