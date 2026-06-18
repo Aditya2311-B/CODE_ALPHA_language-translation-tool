@@ -1,6 +1,7 @@
 # Language Translation Tool
 
 A modern, production-ready multilingual translation application built with Python and Streamlit. Translate text between 50+ languages instantly with auto-detection, text-to-speech capabilities, and a beautiful glassmorphism UI.
+WEBSITE LINK : https://codealphalanguage-translation-tool-bwfrs62ghaszrejz72fywb.streamlit.app/
 <img width="2070" height="1606" alt="image" src="https://github.com/user-attachments/assets/e6393865-0796-4b19-bfe5-e4925fa06e58" />
 
 ## Features
